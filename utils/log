@@ -1,0 +1,368 @@
+学习率　0.0005 　dropout 0.9
+Epoch 5391/10000, loss=0.83
+Epoch 5392/10000, loss=0.83
+Epoch 5393/10000, loss=0.94
+Epoch 5394/10000, loss=1.06
+Epoch 5395/10000, loss=0.81
+Epoch 5396/10000, loss=0.86
+Epoch 5397/10000, loss=0.86
+Epoch 5398/10000, loss=0.89
+Epoch 5399/10000, loss=1.00
+Epoch 5400/10000, loss=0.98
+Epoch 5400, on validation, loss = 0.7771307, validation = 0.804
+之后没有什么变化
+
+
+以下是学习率0.0001　　　2个5层，4个3层　没有正则化
+Epoch 1000, on validation, loss = 2.416106, validation = 0.399
+Epoch 1100, on validation, loss = 2.2556725, validation = 0.45433334
+Epoch 1200, on validation, loss = 2.121179, validation = 0.48233333
+Epoch 1300, on validation, loss = 2.097667, validation = 0.494
+Epoch 1400, on validation, loss = 1.903622, validation = 0.5836667
+Epoch 1500, on validation, loss = 1.7198623, validation = 0.603
+Epoch 1600, on validation, loss = 1.6657667, validation = 0.624
+Epoch 1700, on validation, loss = 1.9249789, validation = 0.514
+Epoch 1800, on validation, loss = 1.5985045, validation = 0.66966665
+Epoch 1900, on validation, loss = 1.6325538, validation = 0.65133333
+Epoch 2000, on validation, loss = 1.5494114, validation = 0.67733335
+Epoch 2100, on validation, loss = 1.5174736, validation = 0.682
+Epoch 2200, on validation, loss = 1.3396558, validation = 0.70266664
+Epoch 2300, on validation, loss = 1.2519583, validation = 0.73933333
+Epoch 2400, on validation, loss = 1.1817833, validation = 0.768
+Epoch 2500, on validation, loss = 1.282455, validation = 0.74233335
+Epoch 2600, on validation, loss = 1.0963902, validation = 0.7816667
+Epoch 2700, on validation, loss = 1.0673152, validation = 0.7873333
+Epoch 2800, on validation, loss = 1.048637, validation = 0.78966665
+Epoch 2900, on validation, loss = 1.0579284, validation = 0.798
+Epoch 3000, on validation, loss = 1.0599201, validation = 0.79766667
+Epoch 3100, on validation, loss = 1.0999193, validation = 0.77633333
+Epoch 3200, on validation, loss = 0.9064208, validation = 0.8243333
+Epoch 3300, on validation, loss = 1.0608339, validation = 0.76933336
+Epoch 3400, on validation, loss = 0.9068251, validation = 0.83166665
+Epoch 3500, on validation, loss = 0.88882416, validation = 0.8326667
+Epoch 3600, on validation, loss = 0.9838665, validation = 0.802
+Epoch 3700, on validation, loss = 1.589972, validation = 0.6483333
+Epoch 3800, on validation, loss = 0.86643773, validation = 0.833
+Epoch 3900, on validation, loss = 0.8170326, validation = 0.83433336
+Epoch 4000, on validation, loss = 0.78559816, validation = 0.83
+Epoch 4100, on validation, loss = 0.7913239, validation = 0.8466667
+Epoch 4200, on validation, loss = 0.74476236, validation = 0.85033333
+Epoch 4300, on validation, loss = 0.7539575, validation = 0.8426667
+Epoch 4400, on validation, loss = 0.7069128, validation = 0.8553333
+Epoch 4500, on validation, loss = 0.71219623, validation = 0.85366666
+Epoch 4600, on validation, loss = 0.74603546, validation = 0.84533334
+Epoch 4700, on validation, loss = 0.76360196, validation = 0.836
+Epoch 4800, on validation, loss = 0.66438186, validation = 0.85466665
+Epoch 4900, on validation, loss = 0.7458351, validation = 0.84066665
+Epoch 5000, on validation, loss = 0.70001173, validation = 0.853
+Epoch 5100, on validation, loss = 0.73547655, validation = 0.83966666
+Epoch 5200, on validation, loss = 0.68126136, validation = 0.8476667
+Epoch 5300, on validation, loss = 0.61180645, validation = 0.8613333
+Epoch 5400, on validation, loss = 0.6530905, validation = 0.861
+Epoch 5500, on validation, loss = 0.6750201, validation = 0.854
+Epoch 5600, on validation, loss = 0.60530365, validation = 0.8653333
+Epoch 5700, on validation, loss = 0.6606918, validation = 0.8523333
+Epoch 5800, on validation, loss = 0.58389795, validation = 0.8666667
+Epoch 5900, on validation, loss = 0.6026152, validation = 0.86333334
+Epoch 6000, on validation, loss = 0.6257555, validation = 0.86
+Epoch 6100, on validation, loss = 0.6809251, validation = 0.854
+Epoch 6200, on validation, loss = 0.67563653, validation = 0.852
+Epoch 6300, on validation, loss = 0.60318136, validation = 0.859
+Epoch 6400, on validation, loss = 0.5724574, validation = 0.869
+Epoch 6500, on validation, loss = 0.69119626, validation = 0.84966666
+Epoch 6600, on validation, loss = 0.6005635, validation = 0.85933334
+Epoch 6700, on validation, loss = 0.60240775, validation = 0.86266667
+Epoch 6800, on validation, loss = 1.0239257, validation = 0.773
+Epoch 6900, on validation, loss = 0.56352293, validation = 0.86766666
+Epoch 7000, on validation, loss = 0.5552339, validation = 0.87366664
+Epoch 7100, on validation, loss = 0.5566102, validation = 0.86466664
+Epoch 7200, on validation, loss = 0.5308951, validation = 0.87733334
+Epoch 7300, on validation, loss = 0.5485879, validation = 0.8746667
+Epoch 7400, on validation, loss = 0.6183041, validation = 0.858
+Epoch 7500, on validation, loss = 0.59024334, validation = 0.86266667
+
+以下是学习率0.0003　　　2个5层，6个3层　没有正则化
+Epoch 1000, on validation, loss = 2.9793568, accuracy = 0.17266667
+Epoch 1100, on validation, loss = 2.838993, accuracy = 0.19766666
+Epoch 1200, on validation, loss = 2.8018727, accuracy = 0.222
+Epoch 1300, on validation, loss = 2.8888254, accuracy = 0.21133333
+Epoch 1400, on validation, loss = 2.648967, accuracy = 0.25566667
+Epoch 1500, on validation, loss = 2.722091, accuracy = 0.27766666
+Epoch 1600, on validation, loss = 2.5374248, accuracy = 0.303
+Epoch 1700, on validation, loss = 2.9689565, accuracy = 0.22033334
+Epoch 1800, on validation, loss = 2.5814013, accuracy = 0.31466666
+Epoch 1900, on validation, loss = 2.3469748, accuracy = 0.36833334
+Epoch 2000, on validation, loss = 2.4463584, accuracy = 0.33633333
+Epoch 2100, on validation, loss = 2.3287253, accuracy = 0.36966667
+Epoch 2200, on validation, loss = 2.3255184, accuracy = 0.372
+Epoch 2300, on validation, loss = 2.3333082, accuracy = 0.38966668
+Epoch 2400, on validation, loss = 3.1763482, accuracy = 0.22866666
+Epoch 2500, on validation, loss = 2.100241, accuracy = 0.46666667
+Epoch 2600, on validation, loss = 1.9881119, accuracy = 0.47533333
+Epoch 2700, on validation, loss = 2.01413, accuracy = 0.47733334
+Epoch 2800, on validation, loss = 1.9372954, accuracy = 0.5003333
+Epoch 2900, on validation, loss = 2.5132635, accuracy = 0.35566667
+Epoch 3000, on validation, loss = 2.55314, accuracy = 0.35466668
+Epoch 3100, on validation, loss = 2.2149801, accuracy = 0.41
+Epoch 3200, on validation, loss = 1.8730237, accuracy = 0.5223333
+Epoch 3300, on validation, loss = 1.8156332, accuracy = 0.54366666
+Epoch 3400, on validation, loss = 1.769584, accuracy = 0.5513333
+Epoch 3500, on validation, loss = 1.7621989, accuracy = 0.5543333
+Epoch 3600, on validation, loss = 1.831481, accuracy = 0.55266666
+Epoch 3700, on validation, loss = 1.7957883, accuracy = 0.568
+Epoch 3800, on validation, loss = 1.7567384, accuracy = 0.55833334
+Epoch 3900, on validation, loss = 1.648721, accuracy = 0.59933335
+Epoch 4000, on validation, loss = 1.6289649, accuracy = 0.6063333
+Epoch 4100, on validation, loss = 1.578645, accuracy = 0.62166667
+Epoch 4200, on validation, loss = 1.6077217, accuracy = 0.6153333
+Epoch 4300, on validation, loss = 1.6001934, accuracy = 0.60833335
+Epoch 4400, on validation, loss = 1.6742258, accuracy = 0.61333334
+Epoch 4500, on validation, loss = 1.5141561, accuracy = 0.623
+Epoch 4600, on validation, loss = 1.785979, accuracy = 0.57633334
+Epoch 4700, on validation, loss = 1.601809, accuracy = 0.63166666
+Epoch 4800, on validation, loss = 1.8152742, accuracy = 0.56133336
+Epoch 4900, on validation, loss = 1.4885125, accuracy = 0.6536667
+Epoch 5000, on validation, loss = 1.3573967, accuracy = 0.68366665
+
+以下是学习率0.001　　　3个5层，5个3层　没有正则化，出现了震荡，学习率太大
+Epoch 1000, on validation, loss = 3.3345742, accuracy = 0.099
+Epoch 1100, on validation, loss = 3.1787064, accuracy = 0.11533333
+Epoch 1200, on validation, loss = 3.2865996, accuracy = 0.089666665
+Epoch 1300, on validation, loss = 3.2337976, accuracy = 0.12
+Epoch 1400, on validation, loss = 3.2391124, accuracy = 0.122
+Epoch 1500, on validation, loss = 2.887232, accuracy = 0.17266667
+Epoch 1600, on validation, loss = 2.9392235, accuracy = 0.15566666
+Epoch 1700, on validation, loss = 3.950632, accuracy = 0.06
+Epoch 1800, on validation, loss = 2.995763, accuracy = 0.145
+Epoch 1900, on validation, loss = 2.7429316, accuracy = 0.21366666
+Epoch 2000, on validation, loss = 2.7283297, accuracy = 0.206
+Epoch 2100, on validation, loss = 2.9384036, accuracy = 0.16266666
+Epoch 2200, on validation, loss = 2.6237166, accuracy = 0.23166667
+Epoch 2300, on validation, loss = 2.5881593, accuracy = 0.25666666
+Epoch 2400, on validation, loss = 2.8244238, accuracy = 0.198
+Epoch 2500, on validation, loss = 2.520545, accuracy = 0.258
+Epoch 2600, on validation, loss = 2.6343484, accuracy = 0.23866667
+
+以下是学习率0.0001　　　3个5层，5个3层　没有正则化
+Epoch 1000, on validation, loss = 3.5368412, accuracy = 0.078
+
+以下是学习率0.0005　　　3个5层，5个3层　没有正则化
+Epoch 200, on validation, loss = 4.181332, accuracy = 0.026333334
+Epoch 300, on validation, loss = 3.8847833, accuracy = 0.035
+Epoch 400, on validation, loss = 3.781626, accuracy = 0.036666665
+Epoch 500, on validation, loss = 3.7978945, accuracy = 0.037666667
+Epoch 600, on validation, loss = 3.5966513, accuracy = 0.047
+
+以下是学习率0.0001　　　2个5层，5个3层　没有正则化
+Epoch 100, on validation, loss = 4.5332494, accuracy = 0.016
+Epoch 200, on validation, loss = 4.116511, accuracy = 0.023
+Epoch 300, on validation, loss = 4.0213842, accuracy = 0.031333335
+Epoch 400, on validation, loss = 3.9106658, accuracy = 0.041
+Epoch 500, on validation, loss = 3.7585626, accuracy = 0.050333332
+Epoch 600, on validation, loss = 3.6393497, accuracy = 0.064
+Epoch 700, on validation, loss = 3.5359519, accuracy = 0.076
+Epoch 800, on validation, loss = 3.420338, accuracy = 0.102
+Epoch 900, on validation, loss = 3.3128183, accuracy = 0.126
+Epoch 1000, on validation, loss = 3.25586, accuracy = 0.12766667
+Epoch 1100, on validation, loss = 3.1439483, accuracy = 0.13366666
+Epoch 1200, on validation, loss = 3.0983849, accuracy = 0.16
+Epoch 1300, on validation, loss = 3.0990193, accuracy = 0.14866666
+Epoch 1400, on validation, loss = 2.9612832, accuracy = 0.20066667
+Epoch 1500, on validation, loss = 2.9351764, accuracy = 0.205
+Epoch 1600, on validation, loss = 2.8901088, accuracy = 0.197
+Epoch 1700, on validation, loss = 2.8089767, accuracy = 0.22733334
+Epoch 1800, on validation, loss = 2.8124392, accuracy = 0.23333333
+Epoch 1900, on validation, loss = 2.7314866, accuracy = 0.23966667
+Epoch 2400, on validation, loss = 2.5590677, accuracy = 0.324
+Epoch 2500, on validation, loss = 2.4508634, accuracy = 0.32966667
+Epoch 2600, on validation, loss = 2.550982, accuracy = 0.31833333
+Epoch 2700, on validation, loss = 2.359103, accuracy = 0.37333333
+Epoch 2800, on validation, loss = 2.3530467, accuracy = 0.36466667
+Epoch 2900, on validation, loss = 2.310397, accuracy = 0.394
+Epoch 3100, on validation, loss = 2.2555, accuracy = 0.39333335
+Epoch 3200, on validation, loss = 2.2560291, accuracy = 0.418
+Epoch 3300, on validation, loss = 2.2177873, accuracy = 0.42266667
+Epoch 3400, on validation, loss = 2.1860876, accuracy = 0.42366666
+Epoch 3500, on validation, loss = 2.1271315, accuracy = 0.45533332
+Epoch 3600, on validation, loss = 2.1006904, accuracy = 0.48
+Epoch 3700, on validation, loss = 2.1079228, accuracy = 0.49
+Epoch 3800, on validation, loss = 1.9905472, accuracy = 0.51666665
+Epoch 3900, on validation, loss = 2.0962934, accuracy = 0.49
+Epoch 4000, on validation, loss = 2.194079, accuracy = 0.45233333
+Epoch 4100, on validation, loss = 1.903708, accuracy = 0.551
+Epoch 4200, on validation, loss = 1.8914381, accuracy = 0.544
+Epoch 4300, on validation, loss = 1.822642, accuracy = 0.567
+Epoch 4400, on validation, loss = 1.8690221, accuracy = 0.54866666
+Epoch 4500, on validation, loss = 1.7887459, accuracy = 0.5833333
+Epoch 4600, on validation, loss = 1.9070703, accuracy = 0.522
+Epoch 4700, on validation, loss = 1.8047597, accuracy = 0.58566666
+Epoch 4800, on validation, loss = 1.8016901, accuracy = 0.5693333
+Epoch 4900, on validation, loss = 1.7226361, accuracy = 0.60866666
+Epoch 5000, on validation, loss = 1.7638007, accuracy = 0.5963333
+Epoch 5100, on validation, loss = 1.6766185, accuracy = 0.614
+Epoch 5200, on validation, loss = 1.7062534, accuracy = 0.62
+Epoch 5300, on validation, loss = 1.736198, accuracy = 0.615
+Epoch 5400, on validation, loss = 1.5507596, accuracy = 0.648
+Epoch 5500, on validation, loss = 1.6032963, accuracy = 0.6346667
+Epoch 5800, on validation, loss = 1.5358357, accuracy = 0.6523333
+Epoch 5900, on validation, loss = 1.4811946, accuracy = 0.678
+Epoch 6000, on validation, loss = 1.6368507, accuracy = 0.6203333
+Epoch 6100, on validation, loss = 1.4840969, accuracy = 0.68266666
+Epoch 6200, on validation, loss = 1.480149, accuracy = 0.676
+Epoch 6300, on validation, loss = 1.3973093, accuracy = 0.708
+Epoch 6400, on validation, loss = 1.5148497, accuracy = 0.6663333
+Epoch 6500, on validation, loss = 1.3732936, accuracy = 0.7073333
+Epoch 6600, on validation, loss = 1.3557516, accuracy = 0.70666665
+Epoch 6700, on validation, loss = 1.4011497, accuracy = 0.6983333
+Epoch 6800, on validation, loss = 1.3146377, accuracy = 0.7126667
+Epoch 6900, on validation, loss = 1.4235977, accuracy = 0.695
+Epoch 7000, on validation, loss = 1.2974716, accuracy = 0.7276667
+Epoch 7100, on validation, loss = 1.3430564, accuracy = 0.7136667
+Epoch 7200, on validation, loss = 1.3135778, accuracy = 0.721
+Epoch 7300, on validation, loss = 1.2181966, accuracy = 0.74866664
+Epoch 7400, on validation, loss = 1.2357718, accuracy = 0.745
+Epoch 7500, on validation, loss = 1.3063242, accuracy = 0.733
+Epoch 7600, on validation, loss = 1.3556727, accuracy = 0.7086667
+Epoch 7700, on validation, loss = 1.3398945, accuracy = 0.73
+Epoch 7800, on validation, loss = 1.2600107, accuracy = 0.73733336
+Epoch 7900, on validation, loss = 1.2138668, accuracy = 0.733
+Epoch 8000, on validation, loss = 1.34777, accuracy = 0.7163333
+Epoch 8100, on validation, loss = 1.1820215, accuracy = 0.75166667
+Epoch 8200, on validation, loss = 1.2400163, accuracy = 0.748
+Epoch 8300, on validation, loss = 1.1911117, accuracy = 0.75266665
+Epoch 8400, on validation, loss = 1.205321, accuracy = 0.7503333
+Epoch 8500, on validation, loss = 1.1822634, accuracy = 0.752
+Epoch 8600, on validation, loss = 1.1834819, accuracy = 0.74833333
+Epoch 8700, on validation, loss = 1.1648983, accuracy = 0.75333333
+Epoch 8800, on validation, loss = 1.21342, accuracy = 0.7553333
+Epoch 8900, on validation, loss = 1.2021905, accuracy = 0.75733334
+Epoch 9000, on validation, loss = 1.167838, accuracy = 0.74766666
+Epoch 9100, on validation, loss = 1.1813875, accuracy = 0.74
+
+
+
+Epoch 100, on validation, loss = 4.4997735, accuracy = 0.017666666
+Epoch 200, on validation, loss = 4.1177855, accuracy = 0.022
+Epoch 300, on validation, loss = 4.0734873, accuracy = 0.023
+Epoch 400, on validation, loss = 3.939293, accuracy = 0.043333333
+Epoch 500, on validation, loss = 3.7828145, accuracy = 0.06
+Epoch 600, on validation, loss = 3.5186856, accuracy = 0.089666665
+Epoch 700, on validation, loss = 3.3709514, accuracy = 0.119666666
+Epoch 800, on validation, loss = 3.225628, accuracy = 0.15
+Epoch 900, on validation, loss = 3.1511462, accuracy = 0.17566666
+Epoch 1000, on validation, loss = 2.9937255, accuracy = 0.211
+Epoch 1100, on validation, loss = 2.881394, accuracy = 0.24566667
+Epoch 1200, on validation, loss = 2.700532, accuracy = 0.31566668
+Epoch 1300, on validation, loss = 2.6989102, accuracy = 0.28333333
+Epoch 1400, on validation, loss = 2.477587, accuracy = 0.35866666
+Epoch 1500, on validation, loss = 2.3928518, accuracy = 0.38466668
+Epoch 1600, on validation, loss = 2.3099523, accuracy = 0.42033333
+Epoch 1700, on validation, loss = 2.2160072, accuracy = 0.462
+Epoch 1800, on validation, loss = 2.220588, accuracy = 0.45233333
+Epoch 1900, on validation, loss = 2.1494853, accuracy = 0.479
+Epoch 2000, on validation, loss = 2.0503879, accuracy = 0.496
+Epoch 2100, on validation, loss = 1.9187956, accuracy = 0.56766665
+Epoch 2200, on validation, loss = 1.8712978, accuracy = 0.556
+Epoch 2300, on validation, loss = 2.381453, accuracy = 0.39266667
+Epoch 2400, on validation, loss = 1.6607764, accuracy = 0.62866664
+Epoch 2500, on validation, loss = 1.6521482, accuracy = 0.635
+Epoch 2600, on validation, loss = 1.6113544, accuracy = 0.63266665
+Epoch 2700, on validation, loss = 1.5314406, accuracy = 0.675
+Epoch 2800, on validation, loss = 1.4864728, accuracy = 0.68833333
+Epoch 3000, on validation, loss = 1.4048996, accuracy = 0.7033333
+Epoch 3100, on validation, loss = 1.3658729, accuracy = 0.70633334
+Epoch 3200, on validation, loss = 1.3138535, accuracy = 0.728
+Epoch 3300, on validation, loss = 1.3449472, accuracy = 0.711
+Epoch 3400, on validation, loss = 1.2283268, accuracy = 0.761
+Epoch 3500, on validation, loss = 1.2299273, accuracy = 0.74233335
+Epoch 3600, on validation, loss = 1.1619737, accuracy = 0.77566665
+Epoch 3700, on validation, loss = 1.1752639, accuracy = 0.77133334
+Epoch 3800, on validation, loss = 1.1495473, accuracy = 0.7726667
+Epoch 3900, on validation, loss = 1.1438468, accuracy = 0.755
+Epoch 4000, on validation, loss = 1.2234135, accuracy = 0.75233334
+Epoch 4100, on validation, loss = 1.1817969, accuracy = 0.7453333
+Epoch 4200, on validation, loss = 1.053464, accuracy = 0.789
+Epoch 4300, on validation, loss = 1.1293926, accuracy = 0.76766664
+Epoch 4400, on validation, loss = 1.0681015, accuracy = 0.78
+Epoch 4500, on validation, loss = 1.0692991, accuracy = 0.7866667
+Epoch 4600, on validation, loss = 1.0660051, accuracy = 0.7773333
+Epoch 4700, on validation, loss = 0.98990154, accuracy = 0.806
+
+以下是学习率0.0001　　　2个5层，2个3层　没有正则化
+Epoch 100, on validation, loss = 4.4737787, accuracy = 0.019
+Epoch 200, on validation, loss = 3.9959095, accuracy = 0.053333335
+Epoch 300, on validation, loss = 3.7708092, accuracy = 0.12233333
+Epoch 400, on validation, loss = 3.429486, accuracy = 0.27533334
+Epoch 500, on validation, loss = 2.8406107, accuracy = 0.4
+Epoch 600, on validation, loss = 2.6772323, accuracy = 0.475
+Epoch 700, on validation, loss = 2.1233366, accuracy = 0.594
+Epoch 800, on validation, loss = 1.7911212, accuracy = 0.659
+Epoch 900, on validation, loss = 1.7404777, accuracy = 0.6586667
+Epoch 1000, on validation, loss = 1.4623073, accuracy = 0.7216667
+Epoch 1100, on validation, loss = 1.313826, accuracy = 0.73066664
+Epoch 1200, on validation, loss = 1.2232829, accuracy = 0.7643333
+Epoch 1300, on validation, loss = 1.1349188, accuracy = 0.7916667
+Epoch 1400, on validation, loss = 1.0625318, accuracy = 0.80466664
+Epoch 1500, on validation, loss = 1.060557, accuracy = 0.80466664
+Epoch 1600, on validation, loss = 1.0198916, accuracy = 0.8103333
+Epoch 1700, on validation, loss = 0.8925332, accuracy = 0.82166666
+Epoch 1800, on validation, loss = 0.9447461, accuracy = 0.814
+Epoch 1900, on validation, loss = 0.8310986, accuracy = 0.829
+Epoch 2000, on validation, loss = 0.9399539, accuracy = 0.83933336
+Epoch 2100, on validation, loss = 0.80234474, accuracy = 0.837
+Epoch 2200, on validation, loss = 0.8483983, accuracy = 0.83633333
+Epoch 2300, on validation, loss = 0.9857835, accuracy = 0.7953333
+Epoch 2400, on validation, loss = 0.74658823, accuracy = 0.851
+Epoch 2500, on validation, loss = 0.7359601, accuracy = 0.84166664
+Epoch 2600, on validation, loss = 0.8294872, accuracy = 0.83566666
+Epoch 2700, on validation, loss = 0.75244623, accuracy = 0.8413333
+Epoch 2800, on validation, loss = 0.7249644, accuracy = 0.84
+Epoch 2900, on validation, loss = 0.7067158, accuracy = 0.8463333
+Epoch 3000, on validation, loss = 0.70656455, accuracy = 0.8376667
+Epoch 3100, on validation, loss = 0.68852866, accuracy = 0.847
+Epoch 3200, on validation, loss = 0.7211433, accuracy = 0.8473333
+Epoch 3300, on validation, loss = 0.70122236, accuracy = 0.8413333
+Epoch 3400, on validation, loss = 0.65930504, accuracy = 0.845
+Epoch 3500, on validation, loss = 0.6376405, accuracy = 0.8516667
+Epoch 3600, on validation, loss = 0.6998382, accuracy = 0.83666664
+Epoch 3700, on validation, loss = 0.62771946, accuracy = 0.85366666
+Epoch 3800, on validation, loss = 0.61336327, accuracy = 0.854
+Epoch 3900, on validation, loss = 0.63061637, accuracy = 0.85833335
+Epoch 4000, on validation, loss = 0.5881955, accuracy = 0.8616667
+Epoch 4100, on validation, loss = 0.6694719, accuracy = 0.8476667
+Epoch 4200, on validation, loss = 0.70453995, accuracy = 0.83533335
+Epoch 4300, on validation, loss = 0.5924763, accuracy = 0.858
+Epoch 4400, on validation, loss = 0.5992592, accuracy = 0.86233336
+Epoch 4500, on validation, loss = 0.58688915, accuracy = 0.85366666
+Epoch 4600, on validation, loss = 0.5809146, accuracy = 0.863
+Epoch 4700, on validation, loss = 0.60698587, accuracy = 0.855
+Epoch 4800, on validation, loss = 0.60422736, accuracy = 0.8526667
+Epoch 4900, on validation, loss = 0.55767316, accuracy = 0.8663333
+Epoch 5000, on validation, loss = 0.5740676, accuracy = 0.863
+Epoch 5100, on validation, loss = 0.57416534, accuracy = 0.8613333
+Epoch 5400, on validation, loss = 0.55531955, accuracy = 0.865
+Epoch 5600, on validation, loss = 0.51945084, accuracy = 0.86733335
+Epoch 5700, on validation, loss = 0.53364134, accuracy = 0.8756667
+Epoch 5800, on validation, loss = 0.5258835, accuracy = 0.86866665
+Epoch 5900, on validation, loss = 0.57668126, accuracy = 0.85833335
+Epoch 6100, on validation, loss = 0.5084632, accuracy = 0.874
+Epoch 6200, on validation, loss = 0.53708214, accuracy = 0.86833334
+Epoch 6300, on validation, loss = 0.5168278, accuracy = 0.87666667
+Epoch 6400, on validation, loss = 0.5530818, accuracy = 0.867
+Epoch 6500, on validation, loss = 0.4978011, accuracy = 0.87633336
+Epoch 6600, on validation, loss = 0.52243274, accuracy = 0.8703333
+
+
+以下是学习率0.0002　　　2个5层，2个3层　没有正则化
+Epoch 100, on validation, loss = 4.3124223, accuracy = 0.020333333
+
+
+
+
+
+
+
+
+
+
+
